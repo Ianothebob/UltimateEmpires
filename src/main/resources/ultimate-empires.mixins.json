@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "watermelonco.empires.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "DeathMixin",
+    "ExampleMixin",
+    "RiptideMixin",
+    "RiptideStopMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
